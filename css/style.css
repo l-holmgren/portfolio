@@ -1,0 +1,45 @@
+header {
+    background-color: #77193C;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    color: #F7F2E8;
+    border-radius: 0 0 40px 40px;
+    padding: 1em 0.75em;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+footer {
+    background-color: #FFDD1A;
+    border-radius: 40px 40px 0 0;
+    margin-top: auto;
+}
+
+header nav a {
+    color: #F7F2E8;
+}
+
+
+.wave {
+    background-color: #1282A2;
+}
+
+main div {
+    /* testing */
+    /* padding: 0 2em 1em; */
+    /* border: solid 2px black; */
+}
+
+svg {
+    margin-bottom: -1px;
+}
+
+.img {
+    background-color: #F7F2E8;
+    border-radius: 40px;
+    width: 40vh !important;
+    height: 40vh !important;
+}
