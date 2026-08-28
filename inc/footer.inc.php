@@ -1,7 +1,8 @@
-        </main>
-        <footer>
-            <?php require("inc/nav.inc.php") ?>
-        </footer>
-        </body>
+</div>
+</main>
+<footer>
+    <?php require("inc/nav.inc.php") ?>
+</footer>
+</body>
 
-        </html>
+</html>
