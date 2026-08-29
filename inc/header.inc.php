@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lauren Holmgren - Web Developer</title>
+    <link rel="icon" href="images/logo.svg" type="image/x-icon">
+    <link rel="stylesheet" href='https://fonts.googleapis.com/css?family=Poppins'>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
 </head>

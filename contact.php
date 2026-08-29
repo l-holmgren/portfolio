@@ -14,12 +14,12 @@
             <p>Fill out the form to send me a message! I'll get back to you within the next few days.</p>
             <h2>Other Ways to Reach Me</h2>
             <ul>
-                <li>Follow me on LinkedIn</li>
-                <li>Send me an email</li>
+                <li>Follow me on <a href="https://www.linkedin.com/in/lauren-holmgren/">LinkedIn</a></li>
+                <li>Send me an email at <a href="mailto:webdevlauren@gmail.com">webdevlauren@gmail.com</a></li>
             </ul>
         </div>
         <div class="col">
-            <form action="https://ctec.clark.edu/CTEC122/scripts/form_echo.php" method="POST">
+            <form action="https://formsubmit.co/webdevlauren@gmail.com" method="POST">
                 <fieldset>
                     <legend>Contact Form</legend>
                     <label for="first">First Name</label><br>
